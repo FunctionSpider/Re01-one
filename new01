@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color : #f1f1f1;
+      text-align: center;
+      padding:40px;
+    ">
+    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F7Po3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F8601a18b87d6277f8136f19629381f30e924fc7c.jpg&refer=http%3A%2F%2Fgss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1669446290&t=1f2d5f382aa05390d16cf694d92a2636"  alt="图片被狗吃了！" width = "80" height="80" 
+    ">
+    </div>
+
+
+    <div style="
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+    ">
+      <p>哈哈，这是直接在github上创建的新的代码文件</p>
+    </div>
+    
+
+    <div style="
+      background-color : #f1f1f1;
+      text-align: center;
+      padding:40px;
+      font-size: 12px;
+    ">
+      <p>我的网站</p>
+      <a href="https://space.bilibili.com/486785610"> 友情链接 </a>
+    </div>
+
+  </body>
+</html>
